@@ -1,4 +1,4 @@
-# Tdlib Documentation
+# Documentation
 
 Before trying to use this library, make sure your computer has it installed [TDLIB](https://github.com/tdlib/td/)
 

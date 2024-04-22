@@ -63,7 +63,7 @@ void main(List<String> args) async {
 
 ### Call Method
 
-currently we don't plan to build everything into dart so we can call the api using json data
+currently everything isn't built into dart so we can call the api using json data
 
   Full Method List: https://core.telegram.org/tdlib/docs/classtd_1_1td__api_1_1_function.html
 
